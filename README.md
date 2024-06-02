@@ -1,4 +1,4 @@
-First person 3d manuever gear (from Attack on Titan)
+First person 3d maneuver gear (from Attack on Titan)
 AI Titan (still in development)
 Developed with Unreal Engine 5
 
